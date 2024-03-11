@@ -1,0 +1,10 @@
+C:\Users\ezelc\Desktop\interface\bin\Debug\@interface.exe.config
+C:\Users\ezelc\Desktop\interface\bin\Debug\@interface.exe
+C:\Users\ezelc\Desktop\interface\bin\Debug\@interface.pdb
+C:\Users\ezelc\Desktop\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\ezelc\Desktop\interface\obj\Debug\interface.Form1.resources
+C:\Users\ezelc\Desktop\interface\obj\Debug\interface.Properties.Resources.resources
+C:\Users\ezelc\Desktop\interface\obj\Debug\interface.csproj.GenerateResource.cache
+C:\Users\ezelc\Desktop\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\interface\obj\Debug\@interface.exe
+C:\Users\ezelc\Desktop\interface\obj\Debug\@interface.pdb
